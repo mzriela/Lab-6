@@ -1,4 +1,4 @@
-# Lab-6
+# Lab-5
 An Arduino lab where I learned how to use SPI communication and an SD card to build a data logger — reading potentiometer values, timestamping them, and saving them to a CSV file for analysis in Excel.
 # Required Equipment Hardware
 - Arduino Uno
